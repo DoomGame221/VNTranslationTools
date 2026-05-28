@@ -19,6 +19,3 @@ jobs:
       with:
         files: Build
         dest: VNTranslationTools.zip
-    - uses: softprops/action-gh-release@v1
-      with:
-        files: VNTranslationTools.zip
